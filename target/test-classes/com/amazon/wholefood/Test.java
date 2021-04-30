@@ -18,7 +18,10 @@ public class Test {
 	public static void classMain(String value) {
 		value = "Tom";
 		value = "dear";
-			System.out.println(value + value);
+		value = "BossBaby";
+		value = "dearBaby";
+		
+			System.out.println(value + value + value + value);
 		
 	}
 	
