@@ -5,7 +5,7 @@ public class Test {
 	
 	// this is another push 
 	// open command line 
-	public test(){
+	public Test(){
 		
 	}
 	public void clickOn(){
