@@ -1,6 +1,9 @@
 package com.amazon.wholefood;
 
 public class Test {
+	public static void main(String[] args) {
+		
+	}
   // this is just a change
 	
 	// this is another push 
@@ -9,5 +12,19 @@ public class Test {
 		
 	}
 	public void clickOn(){
+		
 	}
+	
+	public static void classMain(String value) {
+		value = "Tom";
+		value = "dear";
+			System.out.println(value + value);
+		
+	}
+	
+	
+	
 }
+
+
+
